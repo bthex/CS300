@@ -1,0 +1,18 @@
+# ninja log v5
+0	371	1679106352488317893	CMakeFiles/LinkedList.dir/CSVparser.cpp.o	3fa6d4f039601f8a
+3	35	1679106588192100592	../dist/Darwin/LinkedList	3abdc7c4634f1134
+0	285	1679106352402638369	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+0	45	1679154677734806090	build.ninja	20abc03b370ea11f
+3	43	1679154692229728622	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	1996	1679255470484935974	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+1997	2219	1679255470709747865	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	330	1679255559185892266	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+330	368	1679255559224985592	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	340	1679255626393783743	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+340	383	1679255626444247330	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	335	1679255709624402002	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+335	373	1679255709664438412	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	314	1679255963964258090	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+314	354	1679255964006329294	../dist/Darwin/LinkedList	3abdc7c4634f1134
+3	301	1679256064835354221	CMakeFiles/LinkedList.dir/LinkedList.cpp.o	d10dbd5c3ce92f49
+301	335	1679256064871247919	../dist/Darwin/LinkedList	3abdc7c4634f1134

@@ -1,0 +1,6 @@
+# ninja log v5
+0	396	1678678350684342669	CMakeFiles/VectorSort.dir/VectorSorting.cpp.o	73a552616f05fe0a
+0	495	1678678350782580277	CMakeFiles/VectorSort.dir/CSVparser.cpp.o	4903ae55dc72780c
+495	532	1678678350821510148	VectorSort	9ce0fd62f724ff54
+4	353	1678678487074558735	CMakeFiles/VectorSort.dir/VectorSorting.cpp.o	73a552616f05fe0a
+353	394	1678678487117802569	VectorSort	9ce0fd62f724ff54

@@ -1,0 +1,3 @@
+/Users/bretthex/CLionProjects/VectorSort/cmake-build-debug/CMakeFiles/VectorSort.dir
+/Users/bretthex/CLionProjects/VectorSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bretthex/CLionProjects/VectorSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
