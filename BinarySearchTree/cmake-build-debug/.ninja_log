@@ -1,0 +1,14 @@
+# ninja log v5
+0	527	1680489043882027450	CMakeFiles/BinarySearchTree.dir/CSVparser.cpp.o	b8573e049212d3c9
+7	436	1680493617292460443	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+436	481	1680493617338553010	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
+6	462	1680493758554874987	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+462	536	1680493758628532160	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
+6	400	1680494427854602481	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+400	446	1680494427902643264	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
+7	403	1680494485692560762	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+403	460	1680494485752410803	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
+7	420	1680494516937506519	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+421	469	1680494516987617020	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
+7	438	1680494635707404278	CMakeFiles/BinarySearchTree.dir/BinarySearchTree.cpp.o	d7fe97a92471305e
+438	488	1680494635758743617	../dist/Darwin/BinarySearchTree	2fa5c059f7855380
