@@ -1,0 +1,3 @@
+/Users/bretthex/CLionProjects/CS300/ABCUCourseInfo/cmake-build-debug/CMakeFiles/ABCUCourseInfo.dir
+/Users/bretthex/CLionProjects/CS300/ABCUCourseInfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bretthex/CLionProjects/CS300/ABCUCourseInfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
